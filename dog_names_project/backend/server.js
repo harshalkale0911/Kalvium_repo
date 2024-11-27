@@ -13,6 +13,7 @@ app.use(cors());
 app.use(express.json()); // For parsing application/json
 
 app.use('/api', dogRoutes);
+console.log("hello world");
 
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => {
