@@ -8,8 +8,6 @@ A React-based frontend to display the list dynamically. Deployment of both the f
 
 Tech Stack: Frontend: React.js with Vite, Chakra UI/Ant Design. Backend: Node.js, Express.js. Database: MongoDB with Mongoose.
 
-Deployment: Vercel for the frontend, Render for the backend.
-
 Why This Project: This project is fun and unique, aligning perfectly with the "silly yet impactful" theme. It combines creativity with technical learning,
 offering a hands-on opportunity to implement user authentication, database design, API development, and frontend deployment. Moreover, it provides a quirky
 and engaging user experience that sets it apart from conventional project ideas.
